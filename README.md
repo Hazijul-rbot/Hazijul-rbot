@@ -67,7 +67,8 @@
 </tr>
 </table>
 
-
+## 📈 Contribution Graph:
+<img src="https://ghchart.rshah.org/00D9FF/Hazijul-rbot" alt="Contribution Graph" width="100%"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webof_haq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hazijul-haque0011)
